@@ -1,7 +1,7 @@
 # Mongodb-quiz-test
 
 Structure of 'restaurants' collection:
-
+```
 {
   "address": {
      "building": "1007",
@@ -21,9 +21,10 @@ Structure of 'restaurants' collection:
   "name": "Morris Park Bake Shop",
   "restaurant_id": "30075445"
 }
-
+```
 You may download the compressed file and uncompress it to find the collection used in our exercises. The collection comprises of 3772 documents.
 
+### Exercises
 1. Write a MongoDB query to display the fields restaurant_id, name, borough and cuisine for all the documents in the collection restaurant.
 2. Write a MongoDB query to display the fields restaurant_id, name, borough and cuisine, but exclude the field _id for all the documents in the collection restaurant.
 3. Write a MongoDB query to display all the restaurant which is in the borough Bronx.
