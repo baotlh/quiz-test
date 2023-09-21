@@ -25,16 +25,17 @@ Structure of 'restaurants' collection:
 You may download the compressed file and uncompress it to find the collection used in our exercises. The collection comprises of 3772 documents.
 
 ### Exercises
-1. Write a MongoDB query to display the fields restaurant_id, name, borough and cuisine for all the documents in the collection restaurant.
-2. Write a MongoDB query to display the fields restaurant_id, name, borough and cuisine, but exclude the field _id for all the documents in the collection restaurant.
-3. Write a MongoDB query to display all the restaurant which is in the borough Bronx.
-4. Write a MongoDB query to display the next 5 restaurants after skipping first 5 which are in the borough Bronx.
+1. Write a MongoDB query to display all the restaurant which is in the borough Bronx.
+2. Write a MongoDB query to display the next 5 restaurants after skipping first 5 which are in the borough Bronx.
+3. Write a MongoDB query to display the fields restaurant_id, name, borough and cuisine, but exclude the field _id for all the documents in the collection restaurant.
+4. Write a MongoDB query to arrange the name of the restaurants in ascending order along with all the columns.
 5. Write a MongoDB query to find the restaurants who achieved a score more than 90.
 6. Write a MongoDB query to find the restaurants that do not prepare any cuisine of 'American' and their grade score more than 70 and latitude less than -65.754168.
 7. Write a MongoDB query to arrange the name of the restaurants in ascending order along with all the columns.
 8. Write a MongoDB query to find the average score for each restaurant.
 9. Write a MongoDB query to find the name, address, and grades of the restaurants that have at least one 'A' grade, no 'B' grades, and no 'C' grades.
-10. Write a MongoDB query to find the restaurants that have all grades with a score greater than 5 then add field to indicate "Our selected restaurant" value to them
+10. Write a MongoDB query to find the restaurants that have all grades with a score greater than 5 then add field to indicate "Our selected restaurant" value to them.
+11. Write a MongoDB query to remove restaurants with average score less than 10. 
 
 
 
