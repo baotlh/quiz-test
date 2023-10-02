@@ -31,10 +31,9 @@ You may download the compressed file and uncompress it to find the collection us
 4. Write a MongoDB query to arrange the name of the restaurants in ascending order along with all the columns.
 5. Write a MongoDB query to find the restaurants who achieved a score more than 90.
 6. Write a MongoDB query to find the restaurants that do not prepare any cuisine of 'American' and their grade score more than 70 and latitude less than -65.754168.
-7. Write a MongoDB query to arrange the name of the restaurants in ascending order along with all the columns.
-8. Write a MongoDB query to find the name, address, and grades of the restaurants that have at least one 'A' grade, no 'B' grades, and no 'C' grades.
-9. Write a MongoDB query to find the restaurants that have all grades with a score greater than 5 then add field to indicate "Our selected restaurant" value to them.
-10. Write a MongoDB query to find the average score for each restaurant which less than 50 then remove them from the database.
+7. Write a MongoDB query to find the name, address, and grades of the restaurants that have at least one 'A' grade, no 'B' grades, and no 'C' grades.
+8. Write a MongoDB query to find the restaurants that have all grades with a score greater than 5 then add field to indicate "Our selected restaurant" value to them.
+9. Write a MongoDB query to find the average score for each restaurant which less than 50 then remove them from the database.
 
 
 
